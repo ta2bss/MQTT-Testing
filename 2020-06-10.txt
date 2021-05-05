@@ -1,0 +1,4 @@
+15:18,IPLIK001, RPM_001 ,RPM52:, 0 ,RPM68:, 0 ,RPM53:, 0 ,RPM49:, 0 ,RPM50:, 0 ,RPM54:, 0 ,RPM66:, 0 ,RPM43:, 0 ,RPM44:, 0 ,RPM45:, 0 ,RPM46:, 0 ,RPM47:, 0 
+15:18,IPLIK001, STAT_001 ,DURUM22:, 0 ,DURUM23:, 0 ,DURUM24:, 0 ,DURUM25:, 0 ,DURUM26:, 0 ,DURUM27:, 0 ,DURUM28:, 0 ,DURUM29:, 0 ,DURUM30:, 0 ,DURUM31:, 0 ,DURUM32:, 0 ,DURUM33:, 0 
+15:18,IPLIK001, TEMP_001 ,SICAKLIK:, 28.42 ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+15:18,IPLIK001, CNTR_001 ,SAYAC:, 100 ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
